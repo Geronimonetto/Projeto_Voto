@@ -1,4 +1,4 @@
-from dados import lista_candidatos,lista_voto
+from dados.dados import lista_candidatos,lista_voto
 from time import sleep
 
 class Eleitor:
